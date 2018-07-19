@@ -1,0 +1,72 @@
+
+Software licence USBDLM
+
+
+This licence agreement is based on and bound to German law. This is a translation
+of the most important facts for our customers and visitors. All programs and
+documents were created corresponding German law. If there were any infringements
+of changed or international law it is done unintentional. Please let me know in
+order to allow corrections.
+
+
+
+1. The subject of the contract
+
+  The subject of the contract is the enclosed software, the software description
+  and instructions, as well as other associated written material, in the following
+  also called 'software'.
+  The author makes attentive to the fact that it is not possible to provide
+  software that works error free is in all applications and combinations.
+  The subject of the contract is therefore only a software, which is usable
+  in the sense of the program description.
+
+
+2. Granting of a licence
+
+  The author grants public schools, universities and other non profit institution of
+  education where the students outnumber all others a free licence.
+  Furthermore public libraries whose usage is free of charge can use the software for free.
+  Other users have 30 days to determine if this product meets their needs. After this
+  time one licence per computer must be ordered or the software must be removed from
+  the computers.
+
+  The licence applies to all version numbers of the software now and in the future
+  to the appropriate number of licences.
+
+  The volume licences are valid for the particular number of computers within a
+  company or organisation.
+  A Site Licence allows anyone in the organization making the purchase, within a
+  160 km (100 mile) radius of the purchasing location, to use the software. This
+  includes people from that organization location who are travelling but it does
+  not include people with locations outside of the 160 km radius.
+  A World-Wide Licence allows anyone in the organization making the purchase, who
+  is on the planet Earth, to use the software.
+
+  The author does not supply updates since all updates are offered for download.
+
+  The software can be copied and passed on freely, as long as the ZIP archives
+  is unchanged. Re-packaging is allowed for internal use.
+
+
+3. No further legal claims
+
+  The author is both author and owner of the software, as well as of algorithms
+  and procedures used in this software.
+
+
+4. No modifications or decompiling
+
+  Changes in any files, disassembling, reverse engineering, patching of this
+  software is expressly prohibited.
+
+
+5. No warranty
+
+  I make no guarantee, implied or otherwise as to the accuracy of the
+  documentation or the software's suitability for any purpose. It is a condition
+  of the licesnce that the user accepts that I'm not responsible for any damages
+  arising by the use or misuse of this software. This includes loss of profit,
+  data, any material losses and their consequential damages: even if I'm informed
+  about the possibility of those damages. I try to fix bugs as soon as possible.
+
+

@@ -1,0 +1,102 @@
+
+Software-Lizenz USBDLM
+
+1. Gegenstand des Vertrages  
+  Gegenstand des Vertrages ist die beiligende Software, die
+  Programmbeschreibung und Bedienungsanleitung, sowie sonstiges zugehöriges
+  schriftliches Material, im folgenden auch als Software bezeichnet. Der Autor
+  macht darauf aufmerksam, dass es nach dem Stand der Technik nicht möglich ist,
+  Computersoftware so zu erstellen, dass sie in allen Anwendungen und
+  Kombinationen fehlerfrei arbeitet. Gegenstand des Vertrages ist daher nur
+  eine Software, die im Sinne der Programmbeschreibung und der
+  Benutzungsanleitung grundsätzlich brauchbar ist.
+
+2. Lizenzgewährung
+  Der Autor gewährt jedem interessierten Anwender im privaten Umfeld, öffentlichen
+  Bibliotheken deren Nutzung kostenlos ist, sowie Bildungseinrichtungen eine
+  kostenlose Nutzungslizenz. Eine Bildungseinrichtung gilt als solche, wenn
+  Schüler und Studenten gegenüber sonstigen Mitarbeitern in der Mehrheit sind.
+  Es ist dann keine explizite Lizenzerteilung erforderlich.
+
+  Sonstigen Anwendern wird eine Testlizenz für einen Testzeitraum von 30
+  Kalendertagen eingeräumt. Nach Ablauf dieser Testlizenz muss der Anwender
+  entweder eine Nutzungslizenz pro Computer erwerben oder die Software muss
+  von den entsprechenden Computern entfernt werden.
+
+  Der Lizenznehmer erhält das nicht ausschließliche, unwiderrufliche,
+  übertragbare, zeitlich und räumlich unbeschränkte Recht, die Software auf
+  der entsprechenden Anzahl von Computern innerhalb seiner Firma bzw. 
+  Organisation einzusetzen.
+
+  Ausnahme ist die "Standort-Lizenz", die für eine unbegrenzte Anzahl von
+  Computern innerhalb der Organisation des Lizenznehmers gültig ist, die
+  sich in 160 Kilometer Umkreis oder auf Reisen befinden.
+  
+  Eine Weltweit-Lizenz gilt für eine unbegrenzte Anzahl von Computern innerhalb
+  der Organisation des Lizenznehmers, egal wo.
+
+  Die Nutzungslizenz gilt für alle Versionsnummern der Software jetzt und in
+  Zukunft für die entsprechende Anzahl von Lizenzen.
+  Der Lizenznehmer hat kein Recht auf Updateversorgung durch den Autor, da
+  aktuelle Versionen zum Download stehen.
+
+  Überprüfbarer Beleg für die Lizenz ist die überlassene Lizenznummer. Diese
+  wird für den Betrieb der Software nicht benötigt. Die Software hat keine
+  eingebauten Beschränkungen und läuft nicht ab.
+
+  Die Software kann frei kopiert und weitergegeben werden, soweit folgende
+  Bestimmungen beachtet werden:  Die Software darf nur in den vom Autor
+  erstellten MSI- oder ZIP-Archiven weitergegeben werden. Keine Datei darf im
+  Inhalt irgendwie verändert werden, außer für internen Gebrauch.
+
+
+3. Keine weiteren Rechtsansprüche  
+  Der Autor ist sowohl Urheber als auch Eigentümer der Software, sowie in
+  dieser Software verwendeter Algorithmen und Verfahren. Der Autor behält den
+  Rechts- und Besitzanspruch an der Software.
+
+
+4. Keine Modifikationen oder Dekompilierung
+  Es ist nicht gestattet, die Software oder Kopien im Ganzen oder teilweise
+  zu verändern, zu übersetzen, zu disassemblieren oder zu dekompilieren.
+
+
+5. Haftungsausschluß-Erklärung
+  Soweit gesetzlich zulässig, haftet der Autor oder der Händler auf keinen Fall
+  für irgendwelche Schäden aus entgangenem Gewinn, Betriebsunterbrechung,
+  Datenverlust, für Schäden an Hardware oder anderer Schäden gleich welcher Art,
+  die aus der Benutzung dieser Software oder aus der Tatsache, dass sie nicht
+  benutzt werden kann, resultieren, selbst wenn der Autor oder der Händler auf
+  die Möglichkeit solcher Schäden hingewiesen oder unterrichtet wurden. In jedem
+  Fall ist die gesamte Haftung seitens des Autors oder des Händlers unter
+  jedweder Bestimmung begrenzt auf die Summe, die von Ihnen tatsächlich für
+  diese Softwarelizenz bezahlt worden ist. Der Autor haftet nicht für Schäden,
+  es sei denn, dass ein Schaden durch Vorsatz seitens des Autors verursacht
+  worden ist. Gegenüber Kaufleuten wird auch die Haftung für grobe
+  Fahrlässigkeit ausgeschlossen. Eine Haftung wegen evtl. vom Autor
+  zugesicherten Eigenschaften bleibt unberührt. Eine Haftung für
+  Mangelfolgeschäden, die nicht von der Zusicherung umfasst sind, ist
+  ausgeschlossen.
+
+
+6. Gewährleistung
+  Der Autor übernimmt keine Haftung für die Fehlerfreiheit der Software.
+  Insbesondere übernimmt der Autor keine Gewähr dafür, dass die Software den
+  Anforderungen und Zwecken des Erwerbers genügt oder mit anderen von ihm
+  ausgewählten Programmen zusammenarbeitet. Die Verantwortung für die richtige
+  Auswahl und die Folgen der Benutzung der Software, sowie der damit
+  beabsichtigten oder erzielten Ergebnisse, trägt der Erwerber. Das gleiche gilt
+  für das die Software begleitende schriftliche Material.
+
+
+7. Gesetzesanwendung
+  Dieser Vertrag unterliegt der Gesetzgebung der Bundesrepublik Deutschland und
+  ist so anzuwenden, als ob die betreffenden Rechtsgeschäfte in der
+  Bundesrepublik Deutschland stattfänden.
+
+
+8. Auflagen
+  Der Autor hat das Recht, den Vertrag und die Lizenzrechte sofort zu kündigen,
+  falls Sie die Bestimmungen dieses Vertrages nicht erfüllen.
+
+

@@ -1,0 +1,53 @@
+
+
+USBDLM V5 - USB Drive Letter Manager for Windows 2000, XP, Vista, Win7, Win8, Win10
+                                         Server 2003, 2008, 2012
+
+
+See included USBDLM help file USBDLM_ENG.CHM for detailed information
+and history.
+
++======================================================================+
+| If the help doesn't work, right click the file, choose "Properties", |
+| click "Unblock" and OK.                                              |
++======================================================================+
+
+
+More information about licences and prices at the USBDLM homepage:
+
+http://www.uwe-sieber.de/usbdlm_e.html
+
+
+---------------------------------------------------------------------------
+
+
+USBDLM is freeware for private and educational use. Educational means 
+institutions where the students outnumber all others.
+
+For use in any other environement you need a licence (after a test 30 days
+test period).
+
+The software is NOT Public Domain software. You are allowed to freely distribute
+of the software, but I retain ownership and copyright of the software.
+
+You may distribute the software under the following conditions:
+
+- You may not modify the program or documentation files in any way
+- You must include all the files that were in the original distribution
+- You may not reverse engineer the software
+- You may not sell the software or charge a distribution fee, except to
+  recover the media costs
+- You may not distribute it by means of any type of a "Downloader" software
+
+The software and related documentation are provided "as is", without warranty
+of any kind. The author will not be liable for any special, incidental,
+consequential or indirect damages due to loss of data or any other reason.
+
+
+
+
+
+June 2015
+
+Uwe Sieber
+
